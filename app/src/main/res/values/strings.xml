@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">laboratoriocalificado3</string>
+    <string name="title_activity_ejercicio01">Lista de Profesores</string>
+    <string name="teacher_photo_description">Foto del profesor</string>
+    <string name="error_fetching_teachers">Error al obtener la lista de profesores.</string>
+    <string name="making_call_to">Llamando a %s...</string>
+    <string name="sending_email_to">Enviando correo a %s...</string>
+    <string name="action_call">Llamar</string>
+    <string name="action_send_email">Enviar Email</string>
+    <string name="no_app_to_handle_call">No se encontró una aplicación para realizar llamadas.</string>
+    <string name="no_app_to_handle_email">No se encontró una aplicación para enviar correos.</string>
+
+</resources>

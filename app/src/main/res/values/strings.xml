@@ -9,5 +9,6 @@
     <string name="action_send_email">Enviar Email</string>
     <string name="no_app_to_handle_call">No se encontró una aplicación para realizar llamadas.</string>
     <string name="no_app_to_handle_email">No se encontró una aplicación para enviar correos.</string>
+    <string name="teacher_list_description">Lista de profesores</string>
 
 </resources>
